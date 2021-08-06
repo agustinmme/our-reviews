@@ -60,7 +60,7 @@ function App() {
               randomData();
             }}
           >
-            Susprice
+            Surprice
           </Button>
           <Button
             colorScheme="blue"
